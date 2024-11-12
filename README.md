@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Murtuzaali-Rangwala
-- - 👀 I’m interested in ... Actively looking for Data Analyst opportunities 
+- 👀 I’m interested in ... Actively looking for Data Analyst opportunities 
 - 🌱 I’m currently learning ... Cisco Data Analytics Essential, Meta Data Analyst
 - 💞️ I’m looking to collaborate on ... Data Analysis Projects
 - 📫 How to reach me ... murtuzaalirangwala@gmail.com
